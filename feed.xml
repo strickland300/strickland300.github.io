@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>His &amp; Hers Top 10s</title>
+  <link></link>
+  <description>Jessica and Jason compare their Top 10 lists of various topics for your listening pleasure.</description>
+ <item>
+	<title>Test File - I don't own this, just using for testing</title>
+	<enclosure url="http://flash-mp3-player.net/medias/another_world.mp3" type="audio/mpeg" length="1" />
+
+</item>
+</channel>
+</rss>
